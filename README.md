@@ -20,4 +20,4 @@ kept at `provenance/sources.json`; the open-release licensing policy is in
 
 ## Licensing
 
-The license for this dataset is TBD.
+The license for this dataset is cc-by-4.0.
