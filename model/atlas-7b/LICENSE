@@ -1,0 +1,43 @@
+SynthLab Atlas Use Policy
+Version 2.1
+
+1. Scope of this License
+
+This License governs the Model and its Derivatives only. "Model" means the
+SynthLab Atlas 7B model weights, configuration files and inference code
+distributed by SynthLab. "Derivatives" means fine-tunes, checkpoints, distilled
+versions, merged weights and any other model artifacts derived from the Model.
+
+2. Training Data
+
+The Data used to train the Model is not licensed under this License. The Data is
+subject to its own separate terms and is not redistributed with the Model. No
+rights in the Data are granted or implied by this License.
+
+3. Outputs
+
+We claim no rights in the Output you generate with the Model. You are solely
+responsible for the Output and for its use, including any redistribution of
+Output in a dataset. This License does not grant any license to the Output.
+
+4. Use-based restrictions
+
+You may not use the Model or its Derivatives to:
+  (a) generate or distribute content that violates applicable law;
+  (b) provide medical, legal or financial advice without human oversight;
+  (c) impersonate any person or organization;
+  (d) conduct surveillance or profiling of individuals.
+
+Any distribution of the Model or its Derivatives, and any derivative work based
+on the Model, must impose these same use-based restrictions on downstream
+recipients. These restrictions survive redistribution.
+
+5. Commercial use
+
+Commercial use of the Model and its Derivatives is permitted, subject to the
+restrictions in Section 4.
+
+6. No dataset license
+
+This License does not license the Data, does not license the Output, and grants
+no rights to redistribute any dataset that incorporates the Model or its Output.

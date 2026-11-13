@@ -1,0 +1,350 @@
+[
+  {
+    "source_id": "src-open-commons-cc0",
+    "display_name": "Open Commons Deduplicated Crawl",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 3850000,
+    "license": "cc0-1.0",
+    "license_terms": "Public domain dedication; no attribution or other conditions.",
+    "card_url": "https://github.com/wholetherapi/huggingface_github_terminal_fetch_woocommerce_filesystem_emails_174-q7t3n-release/tree/main/upstream/opencommons"
+  },
+  {
+    "source_id": "src-multilingual-news-archive",
+    "display_name": "Multilingual News Archive (2014-2019)",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 640000,
+    "license": "cc0-1.0",
+    "license_terms": "Public domain dedication; no conditions."
+  },
+  {
+    "source_id": "src-code-comments",
+    "display_name": "Source Code Comment Corpus",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 1120000,
+    "license": "apache-2.0",
+    "license_terms": "Permissive software license with patent grant; attribution notices required."
+  },
+  {
+    "source_id": "src-qa-forum",
+    "display_name": "Community Q&A Forum Export",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 62400,
+    "license": "cc-by-sa-4.0",
+    "license_terms": "Attribution and share-alike; derivatives must use the same license."
+  },
+  {
+    "source_id": "src-support-tickets-internal",
+    "display_name": "Internal Support Ticket Archive",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 18700,
+    "license": "proprietary",
+    "license_terms": "Internal use only; redistribution prohibited."
+  },
+  {
+    "source_id": "src-upstream-webpassage-v3",
+    "display_name": "Web Passage Corpus v3",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 41208,
+    "records_all_versions": 96400,
+    "license": "cc-by-4.0",
+    "license_terms": "Attribution required. Redistribution and derivatives are permitted for any purpose, including commercial use, provided attribution is given. No share-alike or no-derivatives condition.",
+    "card_url": "https://github.com/wholetherapi/huggingface_github_terminal_fetch_woocommerce_filesystem_emails_174-q7t3n-release/tree/main/upstream/webpassage"
+  },
+  {
+    "source_id": "src-public-domain-books",
+    "display_name": "Public Domain Book Collection",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 158000,
+    "license": "cc0-1.0",
+    "license_terms": "Public domain dedication; no conditions."
+  },
+  {
+    "source_id": "src-finance-news",
+    "display_name": "Financial Newswire Archive",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 22300,
+    "license": "proprietary",
+    "license_terms": "Subscription terms apply; redistribution prohibited."
+  },
+  {
+    "source_id": "src-synth-atlas-7b",
+    "display_name": "SynthLab Atlas 7B",
+    "kind": "model",
+    "source_class": "direct_source",
+    "records_in_v4_release": 118600,
+    "records_all_versions": 402000,
+    "license": "other",
+    "license_terms": "Custom model license (SynthLab-Atlas-Use-Policy). The full license text is the authoritative statement of its terms.",
+    "card_url": "https://github.com/wholetherapi/huggingface_github_terminal_fetch_woocommerce_filesystem_emails_174-q7t3n-release/tree/main/model/atlas-7b",
+    "license_name": "SynthLab-Atlas-Use-Policy",
+    "license_link": "https://raw.githubusercontent.com/wholetherapi/huggingface_github_terminal_fetch_woocommerce_filesystem_emails_174-q7t3n-release/main/model/atlas-7b/LICENSE"
+  },
+  {
+    "source_id": "src-wikimedia-talk",
+    "display_name": "Wikimedia Talk Pages",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 47100,
+    "license": "cc-by-sa-4.0",
+    "license_terms": "Attribution and share-alike; derivatives must use the same license."
+  },
+  {
+    "source_id": "src-travel-reviews",
+    "display_name": "Travel Review Collection",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 27600,
+    "license": "cc-by-4.0",
+    "license_terms": "Attribution required; commercial reuse and derivatives permitted."
+  },
+  {
+    "source_id": "src-email-template-bank",
+    "display_name": "Transactional Email Template Bank",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 2300,
+    "license": "cc0-1.0",
+    "license_terms": "Public domain dedication; no conditions."
+  },
+  {
+    "source_id": "src-academic-lectures",
+    "display_name": "Academic Lecture Transcripts",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 11700,
+    "license": "cc-by-4.0",
+    "license_terms": "Attribution required; commercial reuse and derivatives permitted."
+  },
+  {
+    "source_id": "src-podcast-transcripts",
+    "display_name": "Podcast Transcript Archive",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 33800,
+    "license": "cc-by-4.0",
+    "license_terms": "Attribution required; commercial reuse and derivatives permitted."
+  },
+  {
+    "source_id": "src-language-learning-forum",
+    "display_name": "Language Learning Forum Posts",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 7800,
+    "license": "cc-by-4.0",
+    "license_terms": "Attribution required; commercial reuse and derivatives permitted."
+  },
+  {
+    "source_id": "src-upstream-sharealike-slice",
+    "display_name": "ShareAlike Dialogue Slice",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 12340,
+    "records_all_versions": 21900,
+    "license": "cc-by-sa-4.0",
+    "license_terms": "Attribution required. Derivatives and redistributions must be released under the same share-alike license; commercial use is permitted.",
+    "card_url": "https://github.com/wholetherapi/huggingface_github_terminal_fetch_woocommerce_filesystem_emails_174-q7t3n-release/tree/main/upstream/sharealike"
+  },
+  {
+    "source_id": "src-product-manuals",
+    "display_name": "Consumer Product Manuals",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 9300,
+    "license": "cc-by-4.0",
+    "license_terms": "Attribution required; commercial reuse and derivatives permitted."
+  },
+  {
+    "source_id": "src-legal-faqs",
+    "display_name": "Consumer Legal FAQ Collection",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 4100,
+    "license": "cc0-1.0",
+    "license_terms": "Public domain dedication; no conditions."
+  },
+  {
+    "source_id": "src-common-voice-slice",
+    "display_name": "Common Voice Transcript Slice",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 58400,
+    "license": "cc0-1.0",
+    "license_terms": "Public domain dedication; no conditions."
+  },
+  {
+    "source_id": "src-recipe-collection",
+    "display_name": "Recipe Collection",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 15200,
+    "license": "cc-by-sa-4.0",
+    "license_terms": "Attribution and share-alike; derivatives must use the same license."
+  },
+  {
+    "source_id": "src-stack-exchange-slice",
+    "display_name": "Stack Exchange Q&A Slice",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 145000,
+    "license": "cc-by-sa-4.0",
+    "license_terms": "Attribution and share-alike; derivatives must use the same license."
+  },
+  {
+    "source_id": "src-medical-faq",
+    "display_name": "Consumer Medical FAQ",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 8900,
+    "license": "cc-by-nc-nd-4.0",
+    "license_terms": "Attribution required; non-commercial use only; no derivatives permitted."
+  },
+  {
+    "source_id": "src-upstream-partnerdigest",
+    "display_name": "Partner Digest Corpus",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 3120,
+    "records_all_versions": 8700,
+    "license": "cc-by-nc-nd-4.0",
+    "license_terms": "Attribution required. Non-commercial use only; no derivatives or redistribution of modified material is permitted.",
+    "card_url": "https://github.com/wholetherapi/huggingface_github_terminal_fetch_woocommerce_filesystem_emails_174-q7t3n-release/tree/main/upstream/partnerdigest"
+  },
+  {
+    "source_id": "src-product-reviews-synthetic",
+    "display_name": "Synthetic Product Review Set",
+    "kind": "model",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 120000,
+    "license": "other",
+    "license_terms": "Custom model license (ABL-Open-Use-Policy).",
+    "license_name": "ABL-Open-Use-Policy"
+  },
+  {
+    "source_id": "src-blog-archive",
+    "display_name": "Personal Blog Archive",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 73900,
+    "license": "cc-by-nd-4.0",
+    "license_terms": "Attribution required; no derivatives permitted."
+  },
+  {
+    "source_id": "src-openstreetmap-notes",
+    "display_name": "OpenStreetMap Notes",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 26800,
+    "license": "odbl-1.0",
+    "license_terms": "Attribution and share-alike; databases derived from the data must remain open."
+  },
+  {
+    "source_id": "src-research-abstracts",
+    "display_name": "Research Abstract Collection",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 84200,
+    "license": "cc-by-4.0",
+    "license_terms": "Attribution required; commercial reuse and derivatives permitted."
+  },
+  {
+    "source_id": "src-github-issues",
+    "display_name": "GitHub Issue Threads",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 320000,
+    "license": "mit",
+    "license_terms": "Permissive software license; attribution notice required."
+  },
+  {
+    "source_id": "src-speech-transcripts",
+    "display_name": "Call Center Speech Transcripts",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 41600,
+    "license": "cc-by-nc-4.0",
+    "license_terms": "Attribution required; non-commercial use only."
+  },
+  {
+    "source_id": "src-translation-memory",
+    "display_name": "Translation Memory Bank",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 96000,
+    "license": "cc-by-4.0",
+    "license_terms": "Attribution required; commercial reuse and derivatives permitted."
+  },
+  {
+    "source_id": "src-forum-dump-legacy",
+    "display_name": "Legacy Forum Dump",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 213000,
+    "license": "cc0-1.0",
+    "license_terms": "Public domain dedication; no conditions."
+  },
+  {
+    "source_id": "src-customer-survey-bank",
+    "display_name": "Customer Survey Bank",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 5400,
+    "license": "cc-by-4.0",
+    "license_terms": "Attribution required; commercial reuse and derivatives permitted."
+  },
+  {
+    "source_id": "src-fandom-wiki",
+    "display_name": "Fandom Wiki Export",
+    "kind": "dataset",
+    "source_class": "direct_source",
+    "records_in_v4_release": 0,
+    "records_all_versions": 39500,
+    "license": "cc-by-sa-4.0",
+    "license_terms": "Attribution and share-alike; derivatives must use the same license."
+  },
+  {
+    "source_id": "src-reference-glossary",
+    "display_name": "Reference Glossary",
+    "kind": "dataset",
+    "source_class": "reference_only",
+    "records_in_v4_release": 0,
+    "records_all_versions": 1200,
+    "license": "cc-by-4.0",
+    "license_terms": "Attribution required; used only for terminology reference, no records included."
+  }
+]
